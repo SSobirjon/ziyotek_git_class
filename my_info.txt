@@ -1,4 +1,5 @@
 Hello
-My name is Student26
+My name is Student2
 I am from uzbekistan
-I like movies
+I like cartoons
+I'm currently learning system engineering
